@@ -38,6 +38,7 @@ cask "quicklook-json"
 cask "qlimagesize"
 cask "qlvideo"
 cask "provisionql"
+cask "wwdc"
 cask "zotero"
 
 # App Store
