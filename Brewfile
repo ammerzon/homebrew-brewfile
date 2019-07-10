@@ -38,6 +38,7 @@ cask "quicklook-json"
 cask "qlimagesize"
 cask "qlvideo"
 cask "provisionql"
+cask "zotero"
 
 # App Store
 mas "1Blocker", id: 1107421413
