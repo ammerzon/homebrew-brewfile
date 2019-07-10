@@ -12,6 +12,7 @@ brew "zsh-history-substring-search"
 brew "zsh-syntax-highlighting"
 
 # Apps
+cask "appcleaner"
 cask "docker"
 cask "fastlane"
 cask "fork"
