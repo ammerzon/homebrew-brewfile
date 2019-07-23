@@ -1,3 +1,6 @@
+# Taps
+tap "heroku/brew"
+
 # Binaries
 brew "carthage"
 brew "heroku"
