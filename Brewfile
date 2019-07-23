@@ -7,7 +7,6 @@ brew "heroku"
 brew "mas"
 brew "pandoc"
 brew "swiftformat"
-brew "swiftlint"
 brew "tree"
 brew "zsh-autosuggestions"
 brew "zsh-completions"
@@ -84,3 +83,6 @@ mas "Telegram", id: 747648890
 mas "TogglDesktop", id: 957734279
 mas "Trello", id: 1278508951
 mas "Xcode", id: 497799835
+
+# Binaries  
+brew "swiftlint" # requires Xcode
