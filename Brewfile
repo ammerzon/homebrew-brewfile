@@ -1,11 +1,13 @@
 # Taps
 tap "heroku/brew"
+tap "homebrew/cask-drivers"
 
 # Binaries
 brew "carthage"
 brew "heroku"
 brew "mas"
 brew "pandoc"
+brew "python"
 brew "swiftformat"
 brew "tree"
 brew "zsh-autosuggestions"
@@ -39,6 +41,7 @@ cask "sketch"
 cask "slack"
 cask "slite"
 cask "sip"
+cask "sublime-text"
 cask "spotify"
 cask "texpad"
 cask "tunnelbear"
@@ -83,6 +86,9 @@ mas "Telegram", id: 747648890
 mas "TogglDesktop", id: 957734279
 mas "Trello", id: 1278508951
 mas "Xcode", id: 497799835
+
+# Drivers
+cask "logitech-options"
 
 # Binaries  
 brew "swiftlint" # requires Xcode
