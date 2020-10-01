@@ -110,6 +110,7 @@ mas "Bear", id: 1091189122
 mas "ChatMate for WhatsApp", id: 1228059008
 mas "Compressor", id: 424390742
 mas "Final Cut Pro", id: 424389933
+mas "GoodNotes 5 ", id: 1444383602
 mas "HP Easy Scan", id: 967004861
 mas "Irvue", id: 1039633667
 mas "Keynote", id: 409183694
@@ -119,7 +120,6 @@ mas "Microsoft Excel", id: 462058435
 mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
 mas "Motion", id: 434290957
-mas "Notability", id: 736189492
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Paste", id: 967805235
