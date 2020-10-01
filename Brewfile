@@ -42,8 +42,7 @@ brew "kubernetes-cli"
 brew "minikube"
 
 ## .NET
-brew "dotnet"
-brew "dotnet-sdk"
+cask "dotnet"
 
 ## Other languages
 brew "go"
