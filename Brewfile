@@ -1,5 +1,6 @@
 # Taps
 tap "homebrew/cask-drivers"
+tap "possatti/possatti"
 
 # Binaries
 
@@ -8,6 +9,7 @@ brew "gh"
 brew "imagemagick"
 brew "mas"
 brew "pandoc"
+brew "pokemonsay"
 brew "pygments"
 brew "tree"
 brew "watch"
