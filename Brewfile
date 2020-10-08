@@ -44,11 +44,11 @@ brew "kubectx"
 brew "kubernetes-cli"
 brew "minikube"
 
-## .NET
-cask "dotnet"
-
 ## Other languages
+cask "anaconda"
+cask "dotnet"
 brew "go"
+brew "scala"
 
 # Apps
 cask "adoptopenjdk"
