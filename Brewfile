@@ -38,6 +38,10 @@ brew "cocoapods"
 brew "fastlane"
 brew "swiftformat"
 
+# Python Development
+cask "anaconda"
+brew "pipx"
+
 ## Kubernetes
 brew "k9s"
 brew "kubectx"
@@ -45,7 +49,6 @@ brew "kubernetes-cli"
 brew "minikube"
 
 ## Other languages
-cask "anaconda"
 cask "dotnet"
 brew "go"
 brew "scala"
