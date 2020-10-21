@@ -46,6 +46,7 @@ brew "pipx"
 brew "k9s"
 brew "kubectx"
 brew "kubernetes-cli"
+brew "kube-ps1"
 brew "minikube"
 
 ## Other languages
