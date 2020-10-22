@@ -1,6 +1,7 @@
 # Taps
 tap "homebrew/cask-drivers"
 tap "possatti/possatti"
+tap "AdoptOpenJDK/openjdk"
 
 # Binaries
 
