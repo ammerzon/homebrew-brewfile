@@ -35,12 +35,10 @@ brew "terraform"
 ## iOS Development
 brew "carthage"
 brew "cocoapods"
-brew "cocoapods"
 brew "fastlane"
 brew "swiftformat"
 
 # Python Development
-cask "anaconda"
 brew "pipx"
 
 ## Kubernetes
