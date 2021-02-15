@@ -103,7 +103,7 @@ cask "tower"
 cask "tunnelbear"
 cask "visual-studio-code"
 cask "wwdc"
-cask "zoomus"
+cask "zoom"
 cask "zotero"
 
 # App Store
