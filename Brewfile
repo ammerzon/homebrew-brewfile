@@ -1,16 +1,12 @@
 # Taps
 tap "homebrew/cask-drivers"
-tap "possatti/possatti"
-
-# Binaries
 
 ## Utilities
 brew "gh"
 brew "imagemagick"
 brew "mas"
 brew "pandoc"
-brew "pokemonsay"
-brew "pygments"
+brew "tailscale"
 brew "tree"
 brew "watch"
 brew "youtube-dl"
@@ -39,12 +35,7 @@ brew "poetry"
 brew "k9s"
 brew "kubectx"
 brew "kubernetes-cli"
-brew "kube-ps1"
 brew "minikube"
-
-## Other languages
-cask "dotnet"
-brew "go"
 
 # Apps
 cask "aerial"
@@ -52,19 +43,20 @@ cask "alt-tab"
 cask "anki"
 cask "appcleaner"
 cask "around"
-cask "brave-browser"
+cask "bartender"
 cask "cleanshot"
 cask "discord"
 cask "docker"
+cask "fantastical"
 cask "figma"
 cask "forklift"
+cask "glance"
 cask "iina"
 cask "insomnia"
 cask "iterm2"
 cask "jetbrains-toolbox"
 cask "keyboard-maestro"
 cask "lens"
-cask "logitech-options"
 cask "logitech-presentation"
 cask "mactex-no-gui"
 cask "marked"
@@ -78,6 +70,7 @@ cask "philips-hue-sync"
 cask "raycast"
 cask "rocket"
 cask "rocket-typist"
+cask "rotato"
 cask "sf-symbols"
 cask "sip"
 cask "spotify"
@@ -98,15 +91,12 @@ mas "Affinity Designer", id: 824171161
 mas "Affinity Photo", id: 824183456
 mas "Affinity Publisher", id: 881418622
 mas "Amphetamine", id: 937984704
-mas "Bear", id: 1091189122
 mas "ChatMate for WhatsApp", id: 1228059008
 mas "Compressor", id: 424390742
 mas "Final Cut Pro", id: 424389933
 mas "GoodNotes 5 ", id: 1444383602
-mas "HP Easy Scan", id: 967004861
 mas "Highlights - Extract PDF Notes", id: 1498912833
 mas "Irvue", id: 1039633667
-mas "Jira Cloud by Atlassian", id: 1475897096
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "Magnet", id: 441258766
@@ -122,4 +112,5 @@ mas "Spark", id: 1176895641
 mas "Telegram", id: 747648890
 mas "TickTick", id: 966085870
 mas "Trello", id: 1278508951
+mas "WhatsApp Desktop", id: 1147396723
 mas "Xcode", id: 497799835
